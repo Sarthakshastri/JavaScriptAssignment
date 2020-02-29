@@ -26,7 +26,7 @@
 	}
 	var check= document.getElementById("code");
 
-  var codinglang=[{language:"C/C++",status: true},{language:"Java",status: true},{language:"C#",status: false},
+  var codinglang=[{language:"C/C++",status: false},{language:"Java",status: true},{language:"C#",status: true},
 	{language:"PHP",status: false},{language:"Python",status: false}];
  
  	for(var i=0;i<codinglang.length;i++)
